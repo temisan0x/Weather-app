@@ -2,16 +2,16 @@
 
 A sleek, responsive weather application that displays current weather conditions for any city worldwide using the OpenWeatherMap API.
 
-![Weather App Screenshot](./public/screenshot.png) <!-- Add a screenshot later -->
+![Weather App Screenshot](./public/screenshot.png) 
 
-## Features ✨
+## Features 
 - Real-time weather data (temperature, humidity, wind speed)
 - Beautiful gradient UI with glassmorphism design
 - City search functionality
 - Responsive layout (works on mobile & desktop)
 - Dynamic weather icons
 
-## How to Use 🚀
+## How to Use 
 1. **Search for a city** in the search bar
 2. View current weather conditions
 3. Click the refresh button to update data
