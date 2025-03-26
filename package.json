@@ -1,0 +1,32 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app - using open weathermap api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/styles.css --watch",
+    "build": "tailwindcss -i ./src/input.css -o ./dist/styles.css --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temisan0x/Weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "api"
+  ],
+  "author": "Temisan Momodu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temisan0x/Weather-app/issues"
+  },
+  "homepage": "https://github.com/temisan0x/Weather-app#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.17"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.17"
+  }
+}
